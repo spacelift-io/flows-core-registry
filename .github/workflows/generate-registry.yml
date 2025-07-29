@@ -1,0 +1,60 @@
+name: Generate registry
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-registry:
+    runs-on: ubuntu-latest
+    environment: Deployment
+
+    env:
+      AWS_DEFAULT_REGION: auto
+      R2_ENDPOINT_URL: https://5f0d4105431f10a4af1e1f0266f26a97.r2.cloudflarestorage.com
+      R2_BUCKET: registry-useflows-com
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate registry.json
+        run: node .github/scripts/generate-registry.js
+
+      - name: Upload icons to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.FLOWS_REGISTRY_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.FLOWS_REGISTRY_R2_SECRET_ACCESS_KEY }}
+        run: |
+          # Upload all icons to R2
+          for app_dir in apps/*/; do
+            if [ -d "$app_dir" ]; then
+              app_name=$(basename "$app_dir")
+              echo "Processing app: $app_name"
+              
+              # Find icon files (svg, png, jpg, jpeg)
+              for icon in "$app_dir"*.{svg,png,jpg,jpeg}; do
+                if [ -f "$icon" ]; then
+                  icon_filename=$(basename "$icon")
+                  echo "Uploading icon: $icon_filename for app: $app_name"
+                  
+                  aws s3 cp "$icon" "s3://${R2_BUCKET}/core/apps/$app_name/$icon_filename" \
+                    --endpoint-url "${R2_ENDPOINT_URL}" \
+                    --content-type "$(file -b --mime-type "$icon")"
+                fi
+              done
+            fi
+          done
+
+      - name: Upload registry.json to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.FLOWS_REGISTRY_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.FLOWS_REGISTRY_R2_SECRET_ACCESS_KEY }}
+        run: |
+          aws s3 cp registry.json "s3://${R2_BUCKET}/core/registry.json" \
+            --endpoint-url "${R2_ENDPOINT_URL}" \
+            --content-type "application/json"

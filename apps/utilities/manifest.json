@@ -1,0 +1,5 @@
+{
+  "name": "Utilities",
+  "description": "Essential workflow building blocks for data manipulation and flow control. Capture events, deduplicate data streams, merge information, manage concurrency with mutexes, and handle encryption. Perfect for cleaning up messy data flows and adding logic gates to complex workflows.",
+  "color": "#1b2a0e"
+}
