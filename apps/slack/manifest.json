@@ -1,0 +1,5 @@
+{
+  "name": "Slack",
+"description": "Send messages, create channels, and manage Slack workspaces directly from your workflows. Automate notifications, coordinate team responses, and streamline communication across channels. Perfect for incident alerts, deployment updates, and keeping teams synchronized without manual messaging.",
+    "color": "#4a1a56"
+}

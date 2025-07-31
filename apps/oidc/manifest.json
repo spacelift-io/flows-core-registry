@@ -1,0 +1,5 @@
+{
+  "name": "OpenID Connect",
+"description": "OIDC token generator app. Seamlessly creates secure, standards-compliant OpenID Connect tokens for modern authentication workflows.",
+    "color": "#f6861e"
+}

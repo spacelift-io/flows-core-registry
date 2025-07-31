@@ -1,0 +1,5 @@
+{
+  "name": "SSH",
+"description": "Execute commands and scripts on remote servers directly from your workflows. Automate deployments, system maintenance, and infrastructure management tasks across your server fleet. Perfect for configuration updates, service restarts, and operational tasks that need secure remote access.",
+    "color": "#223c5d"
+}
