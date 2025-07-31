@@ -1,0 +1,5 @@
+{
+  "name": "Anthropic",
+  "description": "Automate repository management, issue tracking, and pull request workflows. Create issues, update PRs, manage releases, and sync repository status directly from your workflows. Perfect for deployment notifications, automated issue creation from incidents, and keeping development workflows synchronized with operations.",
+  "color": "#c96240"
+}
