@@ -1,0 +1,5 @@
+{
+  "name": "Spacelift",
+"description": "Orchestrate Terraform, OpenTofu, Ansible, and more to deliver secure, cost-effective, and high-performance infrastructure. Fast.",
+    "color": "#9b70ff"
+}
