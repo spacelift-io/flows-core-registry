@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - CloudWatch",
+  "description": "A collection of blocks representing low-level API calls for AWS CloudWatch.",
+  "color": "#ff4f8b"
+}

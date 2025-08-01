@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - SQS",
+  "description": "A collection of blocks representing low-level API calls for AWS Simple Queue Service.",
+  "color": "#ff4f8b"
+}

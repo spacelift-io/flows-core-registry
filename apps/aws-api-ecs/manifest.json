@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - ECS",
+  "description": "A collection of blocks representing low-level API calls for AWS Elastic Container Service.",
+  "color": "#ff9900"
+}

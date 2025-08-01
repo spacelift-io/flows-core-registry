@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - RDS",
+  "description": "A collection of blocks representing low-level API calls for AWS Relational Database Service.",
+  "color": "#527fff"
+}

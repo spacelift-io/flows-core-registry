@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Lambda",
+  "description": "A collection of blocks representing low-level API calls for AWS Lambda.",
+  "color": "#ff9900"
+}
