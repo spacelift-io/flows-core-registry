@@ -1,0 +1,5 @@
+{
+  "name": "AWS STS",
+"description": "Manages temporary AWS credentials based on self-generated OIDC tokens. Not meant as standalone, but used with other AWS apps.",
+    "color": "#e60041"
+}
