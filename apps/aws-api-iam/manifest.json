@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - IAM",
+  "description": "A collection of blocks representing low-level API calls for AWS Identity and Access Management.",
+  "color": "#ff5252"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - EventBridge",
+  "description": "A collection of blocks representing low-level API calls for AWS EventBridge.",
+  "color": "#ff4f8b"
+}

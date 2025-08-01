@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - KMS",
+  "description": "A collection of blocks representing low-level API calls for AWS Key Management Service.",
+  "color": "#ff5252"
+}

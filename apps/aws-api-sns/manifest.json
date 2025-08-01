@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - SNS",
+  "description": "A collection of blocks representing low-level API calls for AWS Simple Notification Service.",
+  "color": "#ff4f8b"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Secrets Manager",
+  "description": "A collection of blocks representing low-level API calls for AWS Secrets Manager.",
+  "color": "#ff5252"
+}

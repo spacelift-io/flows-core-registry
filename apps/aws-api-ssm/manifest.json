@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - SSM",
+  "description": "A collection of blocks representing low-level API calls for AWS Systems Manager.",
+  "color": "#ff4f8b"
+}

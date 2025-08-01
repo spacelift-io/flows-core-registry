@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - CloudFormation",
+  "description": "A collection of blocks representing low-level API calls for AWS CloudFormation.",
+  "color": "#ff4f8b"
+}
