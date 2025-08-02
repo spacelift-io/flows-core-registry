@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - EKS",
+  "description": "A collection of blocks representing low-level API calls for AWS Elastic Kubernetes Service.",
+  "color": "#ff9900"
+}

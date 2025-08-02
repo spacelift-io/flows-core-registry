@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - WAF",
+  "description": "A collection of blocks representing low-level API calls for AWS Web Application Firewall.",
+  "color": "#ff5252"
+}

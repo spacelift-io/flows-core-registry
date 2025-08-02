@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - CloudFront",
+  "description": "A collection of blocks representing low-level API calls for AWS CloudFront.",
+  "color": "#a166ff"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - S3",
+  "description": "A collection of blocks representing low-level API calls for AWS Simple Storage Service.",
+  "color": "#6cae3e"
+}
