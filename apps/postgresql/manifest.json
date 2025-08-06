@@ -1,0 +1,5 @@
+{
+  "name": "PostgreSQL",
+  "description": "Execute queries, manage data, and interact with PostgreSQL databases directly from your flows. Run SELECT queries, perform bulk inserts with COPY protocol, retrieve schema information, and use NOTIFY/LISTEN for event-driven automation. Can be paired with a private agent to access databases in private networks.",
+  "color": "#336791"
+}
