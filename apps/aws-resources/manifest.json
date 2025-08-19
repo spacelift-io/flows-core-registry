@@ -1,0 +1,5 @@
+{
+  "name": "AWS Resources",
+  "description": "A collection of stateful blocks representing AWS resources whose lifecycle is managed using [CloudControl](https://docs.aws.amazon.com/cloudcontrolapi/latest/userguide/what-is-cloudcontrolapi.html). Use this app to provision and manage AWS resources directly in your flows. Selected resources are available directly as fully type-safe dedicated blocks, but [any supported resource](https://docs.aws.amazon.com/cloudcontrolapi/latest/userguide/supported-resources.html) can be provisioned using the Generic Resource block.",
+  "color": "#ff9900"
+}
