@@ -1,0 +1,5 @@
+{
+  "name": "PagerDuty",
+  "description": "Integrate with PagerDuty incident management directly from your flows. Create and manage incidents, subscribe to real-time webhook notifications, update incident status, add notes, and query on-call information. Automatically handles webhook lifecycle and authentication for seamless incident automation.",
+  "color": "#06AC38"
+}
