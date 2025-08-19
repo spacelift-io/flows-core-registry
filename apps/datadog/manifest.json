@@ -1,0 +1,5 @@
+{
+  "name": "Datadog",
+  "description": "DataDog integration with monitors, events API and real-time webhook alerts.",
+  "color": "#954fff"
+}
