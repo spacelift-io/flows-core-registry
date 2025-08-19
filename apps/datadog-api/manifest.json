@@ -1,5 +1,5 @@
 {
-  "name": "Datadog API",
-  "description": "A collection of blocks representing low-level API calls for Datadog API.",
+  "name": "Datadog",
+  "description": "A collection of blocks representing low-level API calls for Datadog.",
   "color": "#954fff"
 }
