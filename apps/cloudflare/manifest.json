@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare",
+  "description": "Automate your Cloudflare infrastructure with 40+ pre-built blocks for cache management, DNS, security, SSL/TLS, analytics, and more. Perfect for DevOps teams building automated workflows, incident response, and GitOps operations.",
+  "color": "#fbad41"
+}
