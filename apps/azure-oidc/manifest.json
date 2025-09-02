@@ -1,0 +1,5 @@
+{
+  "name": "Azure OIDC",
+  "description": "Manages temporary Microsoft Azure credentials based on self-generated OIDC tokens. Not meant as standalone, but used with other Azure apps.",
+  "color": "#66ddff"
+}
