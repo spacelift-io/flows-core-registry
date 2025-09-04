@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Container Service",
+  "description": "Manage Azure Kubernetes Service (AKS) and container orchestration resources through ARM templates. Deploy and configure managed Kubernetes clusters, node pools, and container service settings for scalable containerized applications.",
+  "color": "#326ce5"
+}

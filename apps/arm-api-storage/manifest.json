@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Storage",
+  "description": "Manage Azure Storage resources through ARM templates. Create and configure storage accounts, blob containers, file shares, queues, and tables. Handle storage security, access policies, and lifecycle management for scalable cloud storage solutions.",
+  "color": "#0078d4"
+}

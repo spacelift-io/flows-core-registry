@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Web Apps",
+  "description": "Manage Azure App Service and web application resources through ARM templates. Deploy and configure web apps, app service plans, application settings, deployment slots, and scaling configurations for hosting web applications and APIs.",
+  "color": "#0078d4"
+}

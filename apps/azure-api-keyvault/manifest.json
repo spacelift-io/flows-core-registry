@@ -1,0 +1,5 @@
+{
+  "name": "Azure Key Vault API",
+  "description": "Access Azure Key Vault REST API for secure secrets management. Retrieve, store, and manage secrets, keys, and certificates. Handle vault operations, access policies, and cryptographic operations programmatically with secure authentication.",
+  "color": "#ffc107"
+}

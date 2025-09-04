@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Compute",
+  "description": "Manage Azure compute resources through ARM templates. Deploy and configure virtual machines, VM scale sets, availability sets, and disk resources. Handle compute infrastructure provisioning, scaling, and lifecycle management operations.",
+  "color": "#0078d4"
+}

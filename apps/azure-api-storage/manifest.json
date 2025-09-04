@@ -1,0 +1,5 @@
+{
+  "name": "Azure Storage API",
+  "description": "Access Azure Storage REST API for blob, queue, table, and file operations. Upload, download, and manage files and data, handle storage metadata, implement data lifecycle policies, and integrate with storage services programmatically.",
+  "color": "#0078d4"
+}

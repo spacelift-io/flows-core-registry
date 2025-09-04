@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Monitor",
+  "description": "Manage Azure Monitor resources through ARM templates. Configure monitoring solutions, log analytics workspaces, application insights, alerts, and diagnostic settings for comprehensive application and infrastructure observability.",
+  "color": "#0078d4"
+}

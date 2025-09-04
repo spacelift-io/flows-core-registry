@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Key Vault",
+  "description": "Manage Azure Key Vault resources through ARM templates. Create and configure key vaults, manage access policies, certificates, secrets, and cryptographic keys for secure application secrets and certificate management.",
+  "color": "#ffc107"
+}

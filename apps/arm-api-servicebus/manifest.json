@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Service Bus",
+  "description": "Manage Azure Service Bus messaging infrastructure through ARM templates. Configure service bus namespaces, queues, topics, subscriptions, and messaging policies for reliable enterprise messaging and event-driven architectures.",
+  "color": "#00abec"
+}

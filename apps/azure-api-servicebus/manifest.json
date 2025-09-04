@@ -1,0 +1,5 @@
+{
+  "name": "Azure Service Bus API",
+  "description": "Access Azure Service Bus REST API for messaging operations. Send and receive messages from queues and topics, manage subscriptions, handle dead letter queues, and implement reliable messaging patterns for distributed applications.",
+  "color": "#00abec"
+}

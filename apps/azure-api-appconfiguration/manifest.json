@@ -1,0 +1,5 @@
+{
+  "name": "Azure App Configuration API",
+  "description": "Access Azure App Configuration REST API for dynamic configuration management. Retrieve, update, and manage configuration keys and values, feature flags, and configuration snapshots for real-time application configuration updates.",
+  "color": "#00c2ff"
+}
