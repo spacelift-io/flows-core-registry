@@ -1,0 +1,5 @@
+{
+  "name": "Azure Container Registry API",
+  "description": "Access Azure Container Registry REST API for container image management. Push, pull, and manage container images, artifacts, and registry metadata. Handle authentication, tagging, and repository operations programmatically.",
+  "color": "#0066cc"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM DevOps",
+  "description": "Manage Azure DevOps resources and CI/CD infrastructure through ARM templates. Configure build pipelines, release pipelines, service connections, and DevOps project settings for automated software development and deployment workflows.",
+  "color": "#0078d4"
+}

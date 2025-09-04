@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM DevOps Infrastructure",
+  "description": "Manage Azure DevOps infrastructure and managed DevOps pools through ARM templates. Configure and deploy scalable build infrastructure, self-hosted agents, and DevOps compute resources for CI/CD pipeline execution.",
+  "color": "#68217a"
+}

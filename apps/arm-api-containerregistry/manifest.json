@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM Container Registry",
+  "description": "Manage Azure Container Registry resources through ARM templates. Create and configure container registries, manage webhooks, replications, and access policies for storing and managing container images and artifacts.",
+  "color": "#0066cc"
+}

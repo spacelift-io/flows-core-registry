@@ -1,0 +1,5 @@
+{
+  "name": "Azure Monitor API",
+  "description": "Access Azure Monitor REST API for metrics, logs, and telemetry data. Query log analytics workspaces, retrieve performance metrics, manage alerts, and access monitoring data for comprehensive observability and analytics workflows.",
+  "color": "#0078d4"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM App Configuration",
+  "description": "Manage Azure App Configuration resources through ARM templates. Create and configure app configuration stores, configure access policies, and manage configuration keys and values for centralized application configuration management.",
+  "color": "#00c2ff"
+}

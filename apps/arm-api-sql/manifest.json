@@ -1,0 +1,5 @@
+{
+  "name": "Azure ARM SQL",
+  "description": "Manage Azure SQL resources through ARM templates. Deploy and configure SQL databases, SQL managed instances, elastic pools, SQL servers, and database security policies for scalable relational database solutions.",
+  "color": "#cc2936"
+}
