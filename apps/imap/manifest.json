@@ -1,0 +1,5 @@
+{
+  "name": "IMAP",
+  "description": "Integrate with IMAP protocol to enable email retrieval features.",
+  "color": "#e3d6ff"
+}
