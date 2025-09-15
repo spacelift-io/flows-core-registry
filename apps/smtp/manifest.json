@@ -1,0 +1,5 @@
+{
+  "name": "SMTP",
+  "description": "Send emails through SMTP servers. Configure SMTP settings, compose emails with HTML content, and deliver messages reliably through your preferred email provider or mail server.",
+  "color": "#d4af37"
+}
