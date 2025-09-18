@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - Redshift",
+  "description": "A collection of blocks representing low-level API management calls for AWS Redshift.",
+  "color": "#a166ff"
+}
