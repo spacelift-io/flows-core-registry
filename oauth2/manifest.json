@@ -1,0 +1,5 @@
+{
+  "name": "OAuth2",
+  "description": "Standards-compliant OAuth2 app implementing authorization code flow with automatic token refresh for external service authentication.",
+  "color": "#ffffff"
+}
