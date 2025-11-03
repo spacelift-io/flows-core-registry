@@ -1,5 +1,5 @@
 {
-  "name": "K8s",
+  "name": "Kubernetes",
   "description": "A collection of blocks representing low-level API interactions with the Kubernetes API.",
   "color": "#0000ff"
 }
