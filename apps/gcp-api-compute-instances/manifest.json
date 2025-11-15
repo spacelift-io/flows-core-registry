@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Compute Engine Instances",
+  "description": "A collection of blocks representing low-level API calls for GCP Compute Engine instances.",
+  "color": "#4285f4"
+}
