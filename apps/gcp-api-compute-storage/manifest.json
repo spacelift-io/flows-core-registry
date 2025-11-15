@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Compute Storage",
+  "description": "A collection of blocks representing low-level API calls for GCP Compute storage (persistent disks).",
+  "color": "#4285f4"
+}

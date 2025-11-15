@@ -1,0 +1,5 @@
+{
+  "name": "GCP - Workload Identity Federation",
+  "description": "Dynamically generates GCP credentials using Workload Identity Federation.",
+  "color": "#4285f4"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Cloud SQL Admin",
+  "description": "A collection of blocks representing low-level API calls for GCP Cloud SQL Admin.",
+  "color": "#4285f4"
+}

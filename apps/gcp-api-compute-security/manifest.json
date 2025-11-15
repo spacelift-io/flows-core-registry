@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Compute Security",
+  "description": "A collection of blocks representing low-level API calls for GCP Compute security (firewalls).",
+  "color": "#4285f4"
+}
