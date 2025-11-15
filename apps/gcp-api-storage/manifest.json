@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Cloud Storage",
+  "description": "A collection of blocks representing low-level API calls for GCP Cloud Storage.",
+  "color": "#4285f4"
+}

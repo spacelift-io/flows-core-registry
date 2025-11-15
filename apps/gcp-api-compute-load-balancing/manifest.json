@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Compute Load Balancing",
+  "description": "A collection of blocks representing low-level API calls for GCP Compute Load Balancing.",
+  "color": "#4285f4"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GCP API - Cloud DNS",
+  "description": "A collection of blocks representing low-level API calls for GCP Cloud DNS.",
+  "color": "#4285f4"
+}
