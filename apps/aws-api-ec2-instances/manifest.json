@@ -1,0 +1,5 @@
+{
+  "name": "AWS API - EC2 Instances",
+  "description": "A collection of blocks representing low-level API calls for AWS EC2 Instances.",
+  "color": "#ed7100"
+}
