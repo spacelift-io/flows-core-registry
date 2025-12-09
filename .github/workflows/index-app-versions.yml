@@ -27,5 +27,5 @@ jobs:
           R2_BUCKET: registry-useflows-com
           R2_ENDPOINT_URL: https://5f0d4105431f10a4af1e1f0266f26a97.r2.cloudflarestorage.com
         run: |
-          curl -o index-app-versions.cjs https://raw.githubusercontent.com/spacelift-io/flows-core-registry/refs/heads/main/.github/scripts/index-app-versions.cjs
+          curl -o index-app-versions.cjs https://raw.githubusercontent.com/spacelift-flows-apps/flows-core-registry/refs/heads/main/.github/scripts/index-app-versions.cjs
           node index-app-versions.cjs

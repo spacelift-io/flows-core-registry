@@ -10,7 +10,7 @@ Core apps are applications directly authored and supported by Spacelift.
 
 Start with our core app template:
 
-- Visit <https://github.com/spacelift-io/flows-app-template-core>
+- Visit <https://github.com/spacelift-flows-apps/flows-app-template-core>
 - Follow the template instructions to create your app
 
 ### Step 2: Publish Your First Version
