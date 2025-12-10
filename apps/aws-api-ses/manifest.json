@@ -1,5 +1,5 @@
 {
-    "name": "AWS API - SES",
-"description": "A collection of blocks representing low-level API calls for AWS Simple Email Service.",
-    "color": "#ff5252"
+  "name": "AWS API - SES",
+  "description": "A collection of blocks representing low-level API calls for AWS Simple Email Service.",
+  "color": "#ff5252"
 }
